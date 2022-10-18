@@ -1,0 +1,19 @@
+Biblioteca <string.h>
+
+fflush(stdin)                   --- Usar após armazenar strings
+
+gets(variavel)                  --- Igual ao scanf, Não armazena caracteres especificados
+
+puts(variavel)                  --- Igual ao printf
+
+fgets(variavel, tamanho, stdin) --- Armazena os carcteres especificados no tamanhdo do vetor
+
+
+
+STRCPY(destino, origem)         --- Muda a variavel, substitui o =
+
+STRCAT(destino, origem)         --- Junta duas strings
+
+STRLEN(String)                  --- Mostra o tamanho da String
+
+STRCMP(String1, String2)        --- Compara duas strings, se forem iguais, retorna 0
